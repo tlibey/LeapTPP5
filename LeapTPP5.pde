@@ -136,7 +136,6 @@ void updateTarget()
  }
  
  fill(0,125,125);
- println(tarHolding);
  rect(targets.iTarX[targets.currentTarget],targets.iTarY[targets.currentTarget],targets.iTarWidth[targets.currentTarget],targets.iTarHeight[targets.currentTarget]);
 
 }
